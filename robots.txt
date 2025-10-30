@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://colincraig392-byte.github.io/rrgdr-website/sitemap.xml
